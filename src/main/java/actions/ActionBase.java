@@ -15,7 +15,6 @@ import constants.AttributeConst;
 import constants.ForwardConst;
 import constants.PropertyConst;
 
-
 //Actionクラスの親クラス。共通処理を行う。
 public abstract class ActionBase {
     //Webアプリケーションのコンテキスト情報
